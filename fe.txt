@@ -1,0 +1,1 @@
+/file/export/ascii "mesh_data.txt"
